@@ -1,5 +1,6 @@
 import NextApp, { AppContext, AppProps } from 'next/app';
 import { Providers } from '~/providers';
+import { nothingFont } from '~/shared/fonts';
 
 interface IAppProps extends AppProps {
   theme: 'light' | 'dark';
@@ -7,9 +8,11 @@ interface IAppProps extends AppProps {
 
 export default function App({ Component, pageProps, theme }: IAppProps) {
   return (
-    <Providers theme={theme}>
-      <Component {...pageProps} />
-    </Providers>
+    <main className={nothingFont.className}>
+      <Providers theme={theme}>
+        <Component {...pageProps} />
+      </Providers>
+    </main>
   );
 }
 
