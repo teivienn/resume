@@ -1,6 +1,5 @@
 import { ThemeToggle } from '~/shared/ui/theme-toggle';
 import { NothingText } from '~/shared/ui/hothing-text';
-import { Text } from '@nextui-org/react';
 
 export default function Home() {
   return (

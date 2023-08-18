@@ -1,0 +1,192 @@
+{
+  "contact": {
+    "me": "Виталий Стацура",
+    "email": ""
+  },
+  "cv": {
+    "summary": [
+      "Я имею более 4 лет опыта в разработке мобильных кроссплатформенных приложений и веб приложений. За все время работы имел опыт проектирования и построения архитектуры, был тех/тим лидом небольшой команды и руководил процессом разработки, а так же занимался оценкой приходящих проектов."
+    ],
+    "experience": [
+      {
+        "company": "Itransition",
+        "link": "https://www.itransition.com/",
+        "dates": "February 2022 - Present",
+        "position": "Full-Stack Developer",
+        "responsibilities": [
+          "Development of cross-platform mobile and web applications"
+        ]
+      },
+      {
+        "company": "Neattech",
+        "link": null,
+        "dates": "May 2021 - February 2022",
+        "position": "React Native Developer",
+        "responsibilities": [
+          "Development of cross-platform mobile applications"
+        ]
+      },
+      {
+        "company": "Qulix Systems",
+        "link": "https://www.qulix.com/",
+        "dates": "December 2019 - May 2021",
+        "position": "React Native Developer",
+        "responsibilities": [
+          "Development of cross-platform mobile applications"
+        ]
+      },
+      {
+        "company": "Freelance",
+        "link": null,
+        "dates": "June 2018 - November 2019",
+        "position": "React/React Native Developer",
+        "responsibilities": null
+      }
+    ],
+    "education": [
+      {
+        "university": "Колледж Бизнеса и Права",
+        "dates": "2016-2019",
+        "position": "Техник программист"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Travel application",
+        "descriptions": "An application for tourists with information about various activities on the islands, the ability to plan and book flights between the islands.",
+        "role": "Tech/Team Leader",
+        "responsibilities": [
+          "Estimate features",
+          "Code review and Mentoring",
+          "Collaborating in requirements definition",
+          "Organization of the development process",
+          "Sprint Planning",
+          "CI/CD"
+        ]
+      },
+      {
+        "name": "Social Media Application",
+        "descriptions": "A platform aims to create reliable entertainment events by gathering artists, event producers, and fans in a virtual network, integrating Blockchain technology to support secure transactions through Smart Contracts and deliver unforgettable experiences. There is also a possibility to chat with each other, write comments, share posts with followers and follow other people. With this network, users can have a great time not only in good planned events, but just chatting or creating stories.",
+        "role": "Senior Full-Stack Engineer",
+        "responsibilities": [
+          "Implementation of UI/UX design",
+          "Implementing new functionality",
+          "Collaborating in requirements definition",
+          "Performance optimization and code reviewing"
+        ]
+      },
+      {
+        "name": "Application for Nutritionists",
+        "descriptions": "A platform that brings dietitians and their clients together in one place: a directory of nutritionists, a forum with articles and the opportunity to ask questions to experts.",
+        "role": "React Native Software Engineer, co Team-Leader",
+        "responsibilities": [
+          "Communicate with customers",
+          "Estimate features",
+          "Sprint Planning",
+          "Organization of the development process",
+          "CI/CD",
+          "Review BA, Review Design",
+          "Mentoring",
+          "Acceptance of work from contractors"
+        ]
+      },
+      {
+        "name": "Iflot - Yacht and boat rental service for water adventures",
+        "descriptions": "There are dozens of companies on the yacht rental market in Moscow and St. Petersburg that offer their services on the Internet. To rent a yacht, you will have to call by phone, communicate with the manager, find out the prices, check if the vessel is free for the day you need - in other words, spend hours of your time. We are accustomed to ordering food, calling a taxi, booking a car or accommodation while traveling using mobile applications, so it’s the turn of the yachts!",
+        "role": "React Native Software Engineer",
+        "responsibilities": [
+          "Implementing new functionality",
+          "Implementation of UI/UX design",
+          "Code review",
+          "CI/CD"
+        ]
+      },
+      {
+        "name": "Twist",
+        "descriptions": "This is a mobile application for booking beauty services in the salon and shopping for curly people.",
+        "role": "React Native Software Engineer",
+        "responsibilities": [
+          "Implementing new functionality",
+          "Implementation of UI/UX design",
+          "Code review",
+          "CI/CD"
+        ]
+      },
+      {
+        "name": "Borodach - Barbershop booking app and online beauty store",
+        "descriptions": "Borodach is one of the largest barbershop chains in Russia. To register clients for services, the guys used Yclients.",
+        "role": "React Native Software Engineer",
+        "responsibilities": [
+          "Implementing new functionality",
+          "Implementation of UI/UX design",
+          "Code review",
+          "CI/CD"
+        ]
+      },
+      {
+        "name": "Sale of the spare parts",
+        "descriptions": "Mobile cross-platform application and web application for the sale of spare parts. The main functions are publication of spare parts advertisements, search and filtering of advertisements. Linking spare parts with a car and a point of sale, importing spare parts from Excel, a role-based system with customizable access for legal entities.",
+        "role": "Full Stack Software Engineer",
+        "responsibilities": [
+          "Mobile and Web application architecture",
+          "third party services integration",
+          "Collaborating in requirements definition",
+          "Implementing new functionality",
+          "Implementation of UI/UX design",
+          "Code review",
+          "CI/CD"
+        ]
+      },
+      {
+        "name": "Dating app for pet lovers",
+        "descriptions": "Tinder like application for pet lovers",
+        "role": "React Native Software Engineer",
+        "responsibilities": [
+          "Implementing new functionality",
+          "Implementation of UI/UX design",
+          "Code review",
+          "CI/CD"
+        ]
+      },
+      {
+        "name": "Mobile banking for business",
+        "descriptions": "Mobile cross-platform banking application for legal entities. The main functions are making various payments from transfer to paying taxes, a role-based system with customizable access for employees.",
+        "role": "React Native Software Engineer",
+        "responsibilities": [
+          "Implementing new functionality",
+          "Implementation of UI/UX design",
+          "Code review",
+          "Collaborating in requirements definition"
+        ]
+      },
+      {
+        "name": "Booking App",
+        "descriptions": "BookingApp is a cross-platform application that provides convenient functions for finding different establishments and booking. The main functions are searching for establishments by filters, booking which includes service, wizards, date and time.",
+        "role": "React Native Software Engineer",
+        "responsibilities": [
+          "Implementing new functionality",
+          "Implementation of UI/UX design",
+          "Code review",
+          "Collaborating in requirements definition"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "level": "Native"
+      },
+      {
+        "name": "English",
+        "level": "Pre-Intermediate"
+      }
+    ]
+  },
+  "labels": {
+    "summary": "О себе",
+    "experience": "Опыт работы",
+    "education": "Образование",
+    "projects": "Проекты",
+    "languages": "Языки"
+  }
+}
